@@ -1,1 +1,5 @@
 *.class
+*.lock
+*.bin
+*.jar
+*.original
